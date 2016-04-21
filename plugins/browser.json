@@ -1,0 +1,17 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "phonegap-facebook-plugin": {
+            "APP_ID": "108045292931040",
+            "APP_NAME": "InforMap",
+            "PACKAGE_NAME": "com.informap.tcc"
+        }
+    },
+    "dependent_plugins": {}
+}

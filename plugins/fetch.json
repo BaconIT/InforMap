@@ -1,0 +1,14 @@
+{
+    "phonegap-facebook-plugin": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/Wizcorp/phonegap-facebook-plugin/",
+            "subdir": "."
+        },
+        "is_top_level": true,
+        "variables": {
+            "APP_ID": "108045292931040",
+            "APP_NAME": "InforMap"
+        }
+    }
+}
